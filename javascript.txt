@@ -1,9 +1,15 @@
 Javascript comandos
 
 //, /**/ -> Comentarios de codigo.
+
 console.log(*parametro*); -> É o comando que mostra as informações especificas no console.
+console.log(typeof(*variavel desejada*)); -> para saber o tipo da variavel(String, number...).
+console.log(`String aleatoria" ${parametro} String aleatoria 2`); -> maneira moderna de escrever no console.log();
+
 alert(*parametro*); -> pop-up, funciona apenas em apps.
 
-let *nome da variavel* = *parametro* -> variavel, tem a mesma função de var. Ou pode se usar:
-let *nome da variavel;
+let *nome do let* = *parametro* -> variavel, tem a mesma função de var (Usar no lugar de var). Ou pode se usar:
+let *nome do let*;
 *nome da variavel = *parametro*;
+
+const *nome da const* = *parametro* -> variavel, tem a mesma função de var (Usar no lugar de var).

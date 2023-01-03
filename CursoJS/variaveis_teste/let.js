@@ -21,3 +21,4 @@ console.log(nomes); // primeiro parametro.
 nomes = 'Raul'; // variavel muda de valor a partir daqui.
 console.log(nomes); // segundo parametro.
 // não pode declarar a mesma variavel mais de uma vez.
+

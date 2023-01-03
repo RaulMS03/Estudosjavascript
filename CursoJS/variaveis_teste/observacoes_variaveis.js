@@ -1,3 +1,6 @@
+// Essas observações servem para const e let.
+
+
 // Observação 1
 
 /* Não podemos criar variáveis com palavras reservadas.
@@ -62,4 +65,13 @@
 
 // Observação 7
 
-// NÃO UTILIZE VAR, UTILIZE LET.
+/* NÃO UTILIZE VAR, UTILIZE LET OU CONST. */
+
+// Observação 8
+
+/* Não se pode alterar o valor de uma const.
+*  Exemplo:
+   const primeiroNumero = 10;
+   const primeiroNumero = 2;
+   Isso não funciona.
+*/
