@@ -1,1 +1,5 @@
-Javascript
+Javascript comandos
+
+//, /**/ -> Comentarios de codigo.
+console.log(); -> É o comando que mostra as informações especificas no console.
+alert(); -> pop-up, funciona apenas em apps.
