@@ -1,6 +1,9 @@
 Javascript comandos
 
 //, /**/ -> Comentarios de codigo.
-console.log(); -> É o comando que mostra as informações especificas no console.
-alert(); -> pop-up, funciona apenas em apps.
-let *nome da variavel* = *parametro* -> variavel, tem a mesma função de var.
+console.log(*parametro*); -> É o comando que mostra as informações especificas no console.
+alert(*parametro*); -> pop-up, funciona apenas em apps.
+
+let *nome da variavel* = *parametro* -> variavel, tem a mesma função de var. Ou pode se usar:
+let *nome da variavel;
+*nome da variavel = *parametro*;
